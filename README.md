@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kriish
+# 👋 Hi, I'm Krish Bhadana
 
 🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Real-Time Systems Builder  
 
