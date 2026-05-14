@@ -87,8 +87,8 @@ Structured practice of data structures and algorithms.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: your-email@example.com  
+- LinkedIn: https://www.linkedin.com/in/krish-bhadana-823b2636b/  
+- Email: krishbhadana101@gmail.com 
 
 ---
 
